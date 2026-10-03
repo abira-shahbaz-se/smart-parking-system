@@ -1,4 +1,4 @@
-# Developered by: Abira Shahbaz
+# Developed by: Abira Shahbaz
 # Smart Parking Management System 
 
 A console-based parking system written in Java. Vehicles enter and exit, a slot is assigned automatically, and the bill is calculated with peak-hour pricing and a VIP discount.
